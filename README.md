@@ -2,12 +2,13 @@
 This is the project I create for myself to learn about the socket programming and how to implement it
 using Socket Class in java
 
-![alt text](https://i.imgur.com/sG5lg73.jpg)
-![alt text](https://i.imgur.com/lRQJ01T.jpg)
-ingame screenshot
+# ingame screenshot
+![Alt text](/Screenshots/1.jpeg)
+![Alt text](/Screenshots/2.jpeg)
 
-![alt text](https://i.imgur.com/BfIl60H.jpg)
-Server log
 
-![alt text](https://i.imgur.com/uKvUQKA.jpg)
-front page
+# Server log
+![Alt text](/Screenshots/3.jpeg)
+
+# Front page
+![Alt text](/Screenshots/4.jpeg)

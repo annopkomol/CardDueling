@@ -1,5 +1,5 @@
 # CardDueling
-This is the project i create for myself to learn about the socket programming and how i can implement it in my application
+This is the project I create for myself to learn about the socket programming and how to implement it
 using Socket Class in java
 
 ![alt text](https://i.imgur.com/sG5lg73.jpg)
